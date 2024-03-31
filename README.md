@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heshannavindu-7" alt="heshannavindu-7" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Machine Learning **
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **heshannavi010@gmail.com**
 
