@@ -10,6 +10,9 @@
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **heshannavi010@gmail.com**
+  
+- 📫 University [Sabaragamuwa University Of Sri Lanka](https://www.sab.ac.lk/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
