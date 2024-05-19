@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning **
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Web Devolopment**
 
 - 📫 How to reach me **heshannavi010@gmail.com**
   
