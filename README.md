@@ -6,13 +6,9 @@
    
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=heshannavindu-7&label=Profile%20views&color=0e75b6&style=flat" alt="heshannavindu-7" />
-</p>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=heshannavindu-7" alt="heshannavindu-7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=heshannavindu-7&theme=darkhub&no-frame=true" alt="Github trophies" />
   </a>
 </p>
 
