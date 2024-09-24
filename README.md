@@ -1,36 +1,39 @@
-<h1 align="center" style="color:#ADD8E6">Hi 👋, I'm Heshan Navindu</h1>
-<h3 align="center" style="color:#90EE90">A passionate Developer from Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm Heshan Navindu</h1>
+<h3 align="center">A passionate Developer from Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=heshannavindu-7&label=Profile%20views&color=ADD8E6&style=flat" alt="Profile views" />
+  <img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="269" alt="Funny Looney Tunes GIF" />
+  <br>
+  <a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=heshannavindu-7&label=Profile%20views&color=0e75b6&style=flat" alt="heshannavindu-7" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=heshannavindu-7&theme=darkhub&no-frame=true" alt="Github trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=heshannavindu-7" alt="heshannavindu-7" />
   </a>
 </p>
 
-- 🌱 I’m currently learning **Machine Learning**  
-- 💬 Ask me about **Web Development**  
-- 📫 Reach me at: **heshannavi010@gmail.com**  
+- 🌱 I’m currently learning **Machine Learning**
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me: **heshannavi010@gmail.com**
 - 📚 University: [Sabaragamuwa University Of Sri Lanka](https://www.sab.ac.lk/)
 
----
-
-<h3 align="left" style="color:#FF69B4">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/heshan-7-navindu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="filter: invert(100%);" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.behance.net/iamhesha" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" style="filter: invert(100%);" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/@iamhesha" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" style="filter: invert(100%);" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
-
 ---
 
 <h3 align="left" style="color:#FF69B4">Languages and Tools:</h3>
