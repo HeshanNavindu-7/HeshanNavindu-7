@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Developer from Sri Lanka</h3>
 
 <p align="center">
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
-  
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3h2OHloZXpwMjM4Znkzbzh6cWc1MHZsdnh0N3VrZGUxbnQ4ODZuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="480" height="269" alt="Funny Looney Tunes GIF]()" />
+   
 </p>
 
 <p align="left">
