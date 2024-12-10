@@ -93,6 +93,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=heshannavindu-7&show_icons=true&locale=en&theme=dark" alt="Github stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshannavindu-7&theme=dark" alt="Github streak" />
-</p>
